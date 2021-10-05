@@ -1,7 +1,7 @@
 
 ---
 
-# Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Ankur - aka Arsenic
+# Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Manas Tiwari
 
 - 🌱 I'm currently learning more about JavaScript and some bunch of frameworks.
 - ✉️ Best Medium to contact me is via [mail](manast0411@gmail.com)
