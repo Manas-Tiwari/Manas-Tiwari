@@ -4,7 +4,7 @@
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Manas Tiwari
 
 - 🌱 I'm currently learning about JavaScript and TypeScript.
-- ✉️ Best Medium to contact me is via [mail](manast0411@gmail.com)
+- ✉️ Best Medium to contact me is via [mail](manast0411@gmail.com).
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects.
 - 🥅 2021 Goals: Understand Contribute to Open Source projects.
 - ⚡ Other Activites: A chess learner & Cryptocurrency enthusiast.
