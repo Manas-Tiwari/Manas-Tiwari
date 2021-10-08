@@ -14,14 +14,14 @@
 
 [![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/javascript-%23434C5E?style=for-the-badge&logo=javascript&%2B%2B&labelColor=%233776AB&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/javascript-%23434C5E?style=for-the-badge&logo=javascript&%2B%2B&labelColor=%233776AB&logoColor=#faa307)]()
 [![TypeScript](https://img.shields.io/badge/typescript-%23434C5E?style=for-the-badge&logo=typescript&%2B%2B&labelColor=%233776AB&logoColor=white)]()
 [![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
 [![HTML5](https://img.shields.io/badge/HTML-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)](https://en.wikipedia.org/wiki/CSS)
 <br />
 <br />
-[![Sublime](https://img.shields.io/badge/Sublime--Text-%23434C5E?style=for-the-badge&logo=sublime%20text&labelColor=%23FF9800&logoColor=black)](https://en.wikipedia.org/wiki/Sublime_Text)
+[![VSCode](https://img.shields.io/badge/Visual--Studio--Code-%23434C5E?style=for-the-badge&logo=visualstudiocode%20text&labelColor=%23FF9800&logoColor=black)](https://en.wikipedia.org/wiki/Sublime_Text)
 [![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
 
 ---
