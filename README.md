@@ -3,11 +3,11 @@
 
 # Hi there <img align="center" src="https://github.com/Arsenic-ATG/Arsenic-ATG/blob/master/assets/hello.gif" width="35"> ,I'm Manas Tiwari
 
-- 🌱 I'm currently learning about JavaScript and TypeScript.
+- 🌱 I'm currently learning about Go.
 - ✉️ Best Medium to contact me is via [mail](manast0411@gmail.com).
 - 👯 I’m looking to collaborate with other open source enthusiasts on some 😎cool projects.
-- 🥅 2021 Goals: Understand & Contribute to Open Source projects.
-- ⚡ Other Activites: A chess learner & Cryptocurrency enthusiast.
+- 🥅 2023 Goals: Understand & Contribute to Open Source projects.
+- ⚡ Other Activites: Chess Player.
 ---
 
 ### Languages and Tools 🛠:
@@ -15,7 +15,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/javascript-%23434C5E?style=for-the-badge&logo=javascript&%2B%2B&labelColor=%233776AB&logoColor=#faa307)]()
-[![TypeScript](https://img.shields.io/badge/typescript-%23434C5E?style=for-the-badge&logo=typescript&%2B%2B&labelColor=%233776AB&logoColor=white)]()
+[![GO](https://img.shields.io/badge/Go-%23434C5E?style=for-the-badge&logo=Go&labelColor=%23800000)]()
 [![Python](https://img.shields.io/badge/python-%23434C5E?style=for-the-badge&logo=python&%2B%2B&labelColor=%233776AB&logoColor=white)](https://www.python.org)
 [![HTML5](https://img.shields.io/badge/HTML-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)](https://en.wikipedia.org/wiki/CSS)
@@ -48,9 +48,6 @@
 **NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 </details>
 
- ----
- 
-#### If you are looking 👀 to contribute to a project then check out [Awsome Automations](https://github.com/Arsenic-ATG/Awesome-Automations) 🧐 repository, You might find something that interests you.
  ----
 <a href= mailto:manast0411@gmail.com>
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
